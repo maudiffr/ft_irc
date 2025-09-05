@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executables
+ircserv
+*.out
+
+# Backup files
+*~
+*.swp
+
+# IDE / editor files
+.vscode/
